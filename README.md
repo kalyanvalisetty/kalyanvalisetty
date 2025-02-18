@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Kalyan Valisetty 👋
 
-<!--
-**kalyanvalisetty/kalyanvalisetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack MERN Developer** passionate about creating scalable, efficient, and user-friendly web applications. I love solving real-world problems with code, and I'm always eager to learn and implement new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+### Frontend
+- **React**
+- **Redux**
+- HTML5 & CSS3
+- JavaScript (ES6+)
+- UI Libraries: Bootstrap, Material-UI
+
+### Backend
+- **Node.js**
+- **Express.js**
+
+### Database
+- **MongoDB**
+- Mongoose
+
+### Other Tools
+- Git & GitHub
+- RESTful APIs & GraphQL
+- Docker (basics)
+- CI/CD pipelines
+
+---
+
+## 📫 How to Reach Me
+
+- **Email:** [kalyan33633@example.com](mailto:kalyan33633@gmail.com)
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React patterns and performance optimization  
+- Microservices architecture and serverless computing
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+Thanks for visiting my profile. Let's build something amazing together!
